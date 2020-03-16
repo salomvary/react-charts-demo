@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    fill="greenyellow"
+    font-size="10px"
+    height="100"
+    stroke="greenyellow"
+    viewBox="0 0 200 100"
+    width="200"
+  >
+    <g
+      transform="translate(40, 40)"
+    >
+      <g>
+        <circle
+          cx="0"
+          cy="20"
+          r="4"
+        />
+        <circle
+          cx="120"
+          cy="0"
+          r="4"
+        />
+      </g>
+      <g>
+        <path
+          d="M0,20L120,0"
+          fill="none"
+          stroke-width="2"
+        />
+      </g>
+    </g>
+    <g
+      transform="translate(40, 80)"
+    >
+      <text
+        text-anchor="middle"
+        x="0"
+      >
+        Dec 31
+      </text>
+      <text
+        text-anchor="middle"
+        x="120"
+      >
+        Jan 1
+      </text>
+    </g>
+    <g
+      transform="translate(20, 40)"
+    >
+      <text
+        text-anchor="middle"
+        y="20"
+      >
+        10
+      </text>
+      <text
+        text-anchor="middle"
+        y="16"
+      >
+        12
+      </text>
+      <text
+        text-anchor="middle"
+        y="12"
+      >
+        14
+      </text>
+      <text
+        text-anchor="middle"
+        y="8"
+      >
+        16
+      </text>
+      <text
+        text-anchor="middle"
+        y="4"
+      >
+        18
+      </text>
+    </g>
+  </svg>
+</DocumentFragment>
+`;
